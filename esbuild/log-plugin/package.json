@@ -1,0 +1,13 @@
+{
+  "name": "log-plugin",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logPlugin.js",
+  "scripts": {},
+  "author": "Mateus Freitas da Costa",
+  "license": "MIT",
+  "peerDependencies": {
+    "esbuild": "^0.19.2"
+  }
+}

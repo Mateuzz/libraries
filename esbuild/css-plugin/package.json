@@ -1,0 +1,6 @@
+{
+  "peerDependencies": {
+    "esbuild": "file:../../../../.asdf/installs/nodejs/19.7.0/lib/node_modules/esbuild",
+    "sass": "file:../../../../.asdf/installs/nodejs/19.7.0/lib/node_modules/sass"
+  }
+}
